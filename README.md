@@ -1,4 +1,4 @@
-I'm Konrad Zou, PhD student at the university of Bonn under Peter Scholze.
+I'm Konrad Zou, post-doc working with Pierre Colmez.
 
 Currently interested in everything related to local and geometric Langlands.
 
